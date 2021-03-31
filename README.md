@@ -1,5 +1,5 @@
 # LDFS
-Laravel Dynamic Form Submition
+Laravel 8 Dynamic Form Submition
 
 This method is used to submit laravel forms dynamically using ajax the benifits of this method are following.
 
