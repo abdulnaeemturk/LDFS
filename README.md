@@ -10,6 +10,7 @@ This method is used to submit laravel forms dynamically using ajax the benifits 
   5) it is very simple to use from single input to multiple inputs in form submition.
   6) Reuse of the code for all forms.
   7) Easy to customize
+  8) Repositories with Interface Usage
   
 
 #Dependencies
